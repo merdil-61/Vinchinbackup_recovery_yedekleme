@@ -17,6 +17,9 @@ Siber korsanlar genellikle phishing (oltalama saldırıları) ile ransomware vir
 Bu siber saldırganlar bitcoin olarak para talep etmektedirler.
 Buna çözüm olarak fidye yazılımlarına karşı paha biçilmez dijital varlıklarımıza gelmeden önce eksiksiz ve son teknoloji bir koruma planı oluşturmak için bulut tabanlı bilgi teknolojisi ortamlarında daha iyi bir gelecek için Vinchin Backup & Recovery (Vinchin ile yedek yazılım dosyası) ile verilerimizi güvence altında tutabiliriz.
 
+![vinchin_yedekleme](https://github.com/user-attachments/assets/221cdff5-cdf7-4ecd-aaa0-277f2f1afa65)
+
+
 *Vichin Backup & Recovery Server Fiziksel Sunucu için Sistem Gereksinimleri*
 
 ![vicnhin gereksinim](https://github.com/user-attachments/assets/179f1a8f-1652-4dbf-a58e-6b86284f238b)
